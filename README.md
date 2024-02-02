@@ -1,4 +1,4 @@
-# Hey friend ! I'm Earnest Blade 👋
+# Hey friend ! I'm Earnest 👋
 Hi, I'm a French hobbyist developer and I love **exploring and learning new stuff** ! I'm interested into gamedev and into game engines. I also love **creating stories or writing adventure**s : that's why I love games.
 
 Currently, I'm working on [Emission](https://github.com/Earnest-Blade/Emission-Engine), my own Game Engine because It's a great way to learn how to do it. It's a very slow and complex project, but I love working on it ! I'm also creating a game engine because I'm planning to create my own games *(I already created some on Unity, but it's way cooler with my own engine)*.
