@@ -1,7 +1,5 @@
-# Hey friend ! I'm Earnest 👋
-Hi, I'm a French hobbyist developer and I love **exploring and learning new stuff** ! I'm interested into gamedev and into game engines. I also love **creating stories or writing interactives adventures**.
-
-Currently, I'm working on [XNEngine](https://github.com/Earnest-Blade/XNEngine), a small game engine wrote in C.
+# Hellow~ I'm Earnest
+Hi, I'm a French hobbyist developer and I love **exploring and learning new stuff**! I'm interested into gamedev and into game engines. I also love **creating stories or writing interactives adventures**.
 
 ## 📋 Languages that I use :
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -13,9 +11,7 @@ Currently, I'm working on [XNEngine](https://github.com/Earnest-Blade/XNEngine),
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ##  📚 Frameworks, Platforms and Libraries
-![.Net](https://camo.githubusercontent.com/f36a579a7440dd2cd03da4903249f86d0d44cb7020fd902512bccd139784b363/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
