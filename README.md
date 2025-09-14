@@ -1,5 +1,5 @@
 # Hellow~ I'm Earnest
-Hi, I'm a French hobbyist developer and I love **exploring and learning new stuff**! I'm interested into gamedev and into game engines. I also love **creating stories or writing interactives adventures**.
+Hi, I'm a Belgium game dev student. I love **exploring and learning new stuff**! I'm interested into gamedev and game engines. I also love **creating stories or writing interactives adventures**.
 
 ## 📋 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
